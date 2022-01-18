@@ -47,7 +47,7 @@ go使用标记清除算法
 
 
 ### gc 触发机制
-![avatar](/Users/mengshi/Downloads/recon/test_recon_file/uob)
+![avatar](https://github.com/shimeng930/go-tech/blob/main/resource/go-mermory/gc_call.png?raw=true)
 
 1. gogc的比例触发
 2. 后台监控 
